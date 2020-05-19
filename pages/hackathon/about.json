@@ -1,0 +1,37 @@
+{
+  "title": "About Us | Spark Hackathon",
+  "header": {
+    "h1": "About Us @ Spark",
+    "h2": "Learn more about the wonderful people behind the scenes of the Spark Hackathon! Lots of work goes on under the hood to make the whole experience run smoothly.",
+    "includeCTABtns": false
+  },
+  "vstacks": [
+    {
+      "title": "Powered by Students",
+      "description": "From the beginning, students have been at the core of the CS Program from the choices they make during interdisciplinary CS integration projects in elementary and middle school to the leadership and peer mentoring opportunities like teaching assistant and hackathon organizer they take on in the upper school. In 2014, St. Anne’s-Belfield School had a vision of making computer science education available to every student. This vision was sparked by students, from a high school student who got frustrated taking an online CS course because we didn’t offer one to middle school students who took it upon themselves to teach the teachers coding during an afternoon PD. Students were more than ready for an outlet to become creators, not just consumers, of the next wave of discoveries, solutions, and innovations. In 2019, we have a growing and thriving K-12 CS Program that reaches every student at our school and beyond."
+    },
+    {
+      "title": "Who are the people behind the Spark Hackathon?",
+      "description": "Supported by faculty and staff at St. Anne's-Belfield School, student wranglers organize and run the hackathon. This year, the student wranglers include:",
+      "list": [
+        "Edward Kwon (sponsorship &amp; mentor wrangler)",
+        "Brehanu Bugg (communication wrangler &amp; website guru)",
+        "Alex Paget-Brown (problem statement wrangler",
+        "Noelle Robinson (workshop wrangler)",
+        "Zach Kapp (workshop wrangler)",
+        "Nia Robinson (logistics wranglelr)",
+        "Eddy Chen (tech wrangler)"
+      ]
+    },
+    {
+      "title": "Faculty Shoutouts",
+      "description": "Many thanks to our faculty advisors Zach Minster and Kim Wilkens, to our sponsor liaison, Tara Harrington and to our communications liaison, Erika Hadland for offering their support, guidance and expertise!"
+    },
+    {
+      "title": "Spark Hackathon, 2019",
+      "description": "(from left to right) Anika Volentine, Mariah Payne, Zach Minster, Kim Wilkins, Anders Knopse, Olivia Strasburg",
+      "img_src": "https://sparkhackathon.com/images/hackathon2019.jpg",
+      "img_alt": "(from left to right) Anika Volentine, Mariah Payne, Zach Minster, Kim Wilkins, Anders Knopse, Olivia Strasburg"
+    }
+  ]
+}

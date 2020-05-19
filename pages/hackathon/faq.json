@@ -1,0 +1,118 @@
+{
+	"title": "FAQ | Spark Hackathon",
+	"header": {
+		"h1": "Frequently Asked Questions",
+		"h2": "We get it: people have questions. Here are some common questions with insightful answers.",
+		"includeCTABtns": false
+	},
+	"vstacks": [
+		{
+			"title": "What is a hackathon?",
+			"description": "A Hackathon is an event where people come together to collaborate on creating tech that solve real-world problems. Saturday evening, you will hear from local companies and organizations about a problem they need help solving. Then you will choose one to work on and form teams. Sunday will be spent 'hacking' a solution. At the end of the day, teams will present their projects to the community at a Demo Party!"
+		},
+		{
+			"title": "What is the schedule?",
+			"nested_list": [
+				{
+					"title": "Saturday, Feb. 1 - The Learn-a-Thon",
+					"list": [
+						"9:00 to 10:00 - Opening Program",
+						"10:00 to noon - Hands-on Workshops",
+						"noon to 1:00 - Lunch & Games",
+						"1:00 to 3:00 - Hands-on Workshops",
+						"3:00 to 3:30 - Snacks & Games",
+						"3:30 to 4:30 - Sponsored Problems Presentations",
+						"6:00 to 6:30 - Supper",
+						"6:30 to 9:00 - Hacking begins!"
+					]
+				},
+				{
+					"title": "Sunday, Feb. 2 - The Hackathon",
+					"list": [
+						"9:00 to noon - Hacking",
+						"noon to 1:00 - Lunch & Team Check-in",
+						"1:00 to 3:00 - Hacking",
+						"3:00 to 4:00 - Snacks, Games & Team Check-in",
+						"4:00 to 6:00 - Hacking",
+						"6:00 to 6:30 - Supper",
+						"7:00 to 8:00 - Demo Party!"
+					]
+				}
+			]
+		},
+		{
+			"title": "Is this an overnight event?",
+			"description": "No. Participants arrive at 8am and leave at 9pm both days."
+		},
+		{
+			"title": "Who should and can come to the Hackathon?",
+			"description": "Hackathon applicants must be currently attending high school, but no prior experience is required. We are looking for a diverse set of participants with a broad array of interests, experiences and skills. You do not need to know anything about Computer Science to join. Just be yourself and come!"
+		},
+		{
+			"title": "How are participants chosen?",
+			"description": "The team at Spark Hackathon will review the applications and begin notifying those accepted on a rolling basis starting in early January."
+		},
+		{
+			"title": "Does the Spark Hackathon cost money?",
+			"description": "Thanks to generous sponsors, the Spark Hackathon is free-of-charge. This includes meals, a t-shirt, and an unforgettable experience."
+		},
+		{
+			"title": "What do I need to bring?",
+			"description": "Bring your laptop if you have one, charger, your signed waiver and a photo ID of yourself. Also, come with a positive attitude, an open mind, and a willingness to have a great time!"
+		},
+		{
+			"title": "What if I don't have a laptop?",
+			"description": "That's ok! Make sure to select 'Yes please!' when asked if you need a laptop on the application. We will provide MacBooks to those who need them. You will need to check them in and out both days."
+		},
+		{
+			"title": "Are parents allowed to come with me?",
+			"description": "We are grateful for your parents' support of our program, but after check-in, the Learn-a-Thon & Hackathon portions of Spark are strictly for student participants only. However, your parents may attend the Demo Party at 7pm on Sunday."
+		},
+		{
+			"title": "What is a Learn-a-Thon?",
+			"description": "Saturday will be a day full of hands-on workshops and interactive presentations designed to get your creative juices flowing as you learn about creating tech. We will have lots of mentors on hand to help guide you through your first creation. We will have workshop sessions where you can explore creating mobile apps, websites and hardware devices. We will also have presentations from sponsors who will share real world problems to which they need solutions."
+		},
+		{
+			"title": "Where is the hackathon?",
+			"description": "The hackathon is powered by St. Anne's-Belfield School which means we provide the faculty, staff and facilities needed to run it. Those accepted into the hackathon will receive further instructions about where it will be hosted at St. Anne's-Belfield School."
+		},
+		{
+			"title": "Is food provided?",
+			"description": "Yes, we have heard from students that food is one of the highlights! We provide morning snack, lunch, afternoon snack and dinner."
+		},
+		{
+			"title": "What kind of projects will we be working on?",
+			"description": "Local tech companies and organizations present problem statements to real-world problems they are facing or are interested in solving. You will choose the problem that most interests you and form a team with others who are interested in solving that problem too. See examples of last year's problem statements and projects below.",
+			"links": [
+				{
+					"to": "http://spark.stab.org/2019-projects.html",
+					"title": "Problem Statements 2019"
+				}
+			]
+		},
+		{
+			"title": "Is there a social media account that I can follow?",
+			"description": "Glad you asked! You can follow us on Twitter and Instagram at the links below. We'll also have a live feed posted on the site during the actual Hackathon.",
+			"links": [
+				{
+					"to": "https://twitter.com/sparkstabcs",
+					"title": "Twitter"
+				},
+				{
+					"to": "https://www.instagram.com/sparkstabcs/?hl=en",
+					"title": "Instagram"
+				}
+			]
+		},
+		{
+			"title": "What if I have more questions?",
+			"description": "No worries! You can email us at the link below, and we'll get back to you as soon as possible.",
+			"links": [
+				{
+					"to": "mailto:spark@stab.org",
+					"title": "spark@stab.org"
+				}
+			]
+		}
+	]
+}

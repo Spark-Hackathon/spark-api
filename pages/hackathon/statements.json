@@ -1,0 +1,30 @@
+{
+	"title": "Problem Statements | Spark Hackathon",
+	"header": {
+		"h1": "Problem Statements",
+		"h2": "Here you'll find downloadable PDFs of the problem statements that were presented to you. They have all the information you were given and more!",
+		"includeCTABtns": false
+	},
+	"problem_statements": [
+		{
+			"title": "Albemarle County",
+			"question": "How might we provide an inclusive public participation platform for meaningful youth engagement?",
+			"linkTo": "https://drive.google.com/open?id=1GlWIha0bXizzwjqP4ckY1_CBOkXCaJ2w"
+		},
+		{
+			"title": "HackCville",
+			"question": "How can we connect high school students who need work-based learning experiences with local tech companies who want to help prepare students to work in their industry?",
+			"linkTo": "https://drive.google.com/open?id=1qvnUgXZT_gfBGhzSItTk8IWyBmTJWzxT"
+		},
+		{
+			"title": "UVA BME",
+			"question": "How can we ensure food security in remote environments where growing options are limited?",
+			"linkTo": "https://drive.google.com/open?id=1TR1Q8krXkXROpfPfXvyCn9KD7jYTn-lK"
+		},
+		{
+			"title": "WillowTree",
+			"question": "How can we use technology to give people people a way to track and improve their physical and emotional health?",
+			"linkTo": "https://drive.google.com/open?id=1JN3VJ1x-aTbCKEVC0oNo41dLw_F3M5XH"
+		}
+	]
+}

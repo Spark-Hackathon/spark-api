@@ -1,0 +1,74 @@
+{
+	"title": "Our Sponsors | Spark Hackathon",
+	"header": {
+		"h1": "Our Sponsors",
+		"h2": "The Spark Hackathon could not exist without our wonderful sponsors. Please check them out below!",
+		"includeCTABtns": false
+	},
+	"vstacks": {
+		"first": {
+			"title": "Spark Partner",
+			"images": []
+		},
+		"second": {
+			"title": "Spark Champion",
+			"images": [
+				{
+					"img_src": "/images/sponsors/willowtree_logo.png",
+					"img_alt": "WillowTree Apps Logo",
+					"link_to": "https://willowtreeapps.com"
+				},
+				{
+					"img_src": "/images/sponsors/roomkey_logo.svg",
+					"img_alt": "RoomKey Logo",
+					"link_to": "https://roomkey.com"
+				}
+			]
+		},
+		"third": {
+			"title": "Spark Supporter",
+			"images": [
+				{
+					"img_src": "/images/sponsors/explorelearning_logo.png",
+					"img_alt": "ExploreLearning Logo",
+					"link_to": "https://www.explorelearning.com"
+				},
+				{
+					"img_src": "/images/sponsors/uvabme_logo.png",
+					"img_alt": "UVA BME Logo",
+					"link_to": "https://engineering.virginia.edu/departments/biomedical-engineering"
+				}
+			]
+		},
+		"fourth": {
+			"title": "Spark Fan",
+			"images": [
+				{
+					"img_src": "/images/sponsors/ting_logo.png",
+					"img_alt": "Ting Logo",
+					"link_to": "https://www.ting.com"
+				},
+				{
+					"img_src": "/images/sponsors/moonlight_logo.png",
+					"img_alt": "Moonlight Logo",
+					"link_to": "https://www.moonlighting.com"
+				},
+				{
+					"img_src": "/images/sponsors/missionsecure_logo.png",
+					"img_alt": "Mission Secure Logo",
+					"link_to": "http://missionsecure.com"
+				},
+				{
+					"img_src": "/images/sponsors/techdynamism_logo.png",
+					"img_alt": "Tech Dynamism Logo",
+					"link_to": "https://techdynamism.com/"
+				},
+				{
+					"img_src": "/images/sponsors/vaultva_logo.png",
+					"img_alt": "Vault VA Logo",
+					"link_to": "https://www.vaultvirginia.com/"
+				}
+			]
+		}
+	}
+}

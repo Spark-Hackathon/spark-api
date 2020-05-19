@@ -1,0 +1,15 @@
+{
+	"title": "Volunteer | Spark Hackathon",
+	"header": {
+		"h1": "We'd absolutely LOVE your help!",
+		"h2": "It takes a village to keep the Spark Hackathon running smoothly. Fill out the volunteer application* below and we'll get back to you early January.",
+		"includeCTABtns": false,
+		"footnote": "* If you are a high school student, you must have a previous Hackathon experience to volunteer."
+	},
+	"availability": [
+		"Saturday morning (9am-1pm)",
+		"Saturday afternoon (1pm-5pm)",
+		"Saturday evening (5pm-9pm)",
+		"None of these times work for me"
+	]
+}

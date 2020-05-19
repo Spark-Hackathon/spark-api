@@ -1,0 +1,34 @@
+{
+   "title": "Spark Hackathon",
+   "header": {
+      "h1": "Solve problems, make friends, geek out, & have fun.",
+      "h2": "Spend the first two days of February with other like-minded high-schoolers, mentors, and leaders in local tech companies to solve real world problems. No prior experience necessary.",
+      "includeCTABtns": true
+   },
+   "alternateDivs": [
+      {
+         "title": "Meet other like-minded high-schoolers in Charlottesville",
+         "description": "90+ students from various high schools meet up to solve problems for 2 days. No matter your background, whether you consider yourself an artist, an athlete, a scientist, a writer, a gamer, a fashionista or something else - everyone needs a little computer science in their lives to solve problems big and small. You don’t have to know anything about computer science to join. Just be yourself and come!",
+         "img_src": "https://photos.smugmug.com/photos/i-8rnHnX5/0/X5/i-8rnHnX5-X5.jpg",
+         "img_alt": "Meeting other high-schoolers"
+      },
+      {
+         "title": "Get hands on: plugged & unplugged",
+         "description": "No matter your expertise (if any), you will learn something new about the world of Computer Science. This means you’ll be doing activities on and off the computer. Communication is very important in computer science and sometimes a computer screen gets in the way of that. Are you up for the challenge?",
+         "img_src": "https://photos.smugmug.com/photos/i-xTTRSgp/0/X5/i-xTTRSgp-X5.jpg",
+         "img_alt": "Participants doing unplugged activities",
+         "isFlipped": "on"
+      },
+      {
+         "title": "Share your hardwork to the public",
+         "description": "At the very end of the event, you’ll share your hardwork with your family, friends, and whomever else decides to come. All your efforts will be rewarded! You will make a poster for your stand, prep a speech, and tell the community what you've been working so hard on the past 2 days.",
+         "img_src": "https://photos.smugmug.com/photos/i-8BqtmVp/0/X5/i-8BqtmVp-X5.jpg",
+         "img_alt": "The public viewing participant's project"
+      }
+   ],
+   "cta": {
+      "h1": "What are you waiting for?",
+      "h2": "You'll have the opportunity to meet and learn from peers, mentors, and leaders in the Charlottesville community. It's free to join! Just press the big yellow button below.",
+      "includeCTABtns": true
+   }
+}
